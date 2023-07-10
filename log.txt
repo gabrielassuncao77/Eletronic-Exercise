@@ -1,0 +1,2 @@
+Sucess: Galaxy S is on (Smartphone)
+Error: Iphone is off (Smartphone)
